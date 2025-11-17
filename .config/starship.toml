@@ -1,0 +1,36 @@
+# place in .config/
+
+add_newline = false
+
+[directory]
+style = "bold bright-yellow"
+truncation_length = 4
+truncation_symbol = "…/"
+read_only = " 🔒"
+
+[git_branch]
+symbol = " "
+style = "bold purple"
+
+[git_status]
+disabled = true
+
+[username]
+disabled = true
+[hostname]
+disabled = true
+
+
+# Languages and frameworks
+[nodejs]
+symbol = "Node.js "
+[python]
+symbol = " "
+[rust]
+symbol = "Rust "
+[golang]
+symbol = "Go "
+[java]
+symbol = "Java "
+[kotlin]
+symbol = "Kotlin "

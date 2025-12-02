@@ -19,9 +19,10 @@ disabled = true
 disabled = true
 [hostname]
 disabled = true
+[package]
+disabled = true
 
-
-# Languages and frameworks
+# ЯЗЫКИ И ФРЕЙМВОРКИ
 [nodejs]
 symbol = "Node.js "
 [python]
